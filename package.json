@@ -1,0 +1,13 @@
+{
+    "name": "server-node",
+    "version": "1.0.0",
+    "description": "Server Node JS and config.txt",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "node-static": "^0.7.11",
+        "xmlhttprequest": "^1.8.0"
+    }
+}
